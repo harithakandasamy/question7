@@ -1,0 +1,125 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.content{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin: 20px;
+}
+.content h1{
+	font-size: 2rem;
+}
+.content p{
+	font-size: 1.5rem;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+}
+.box1{
+	height: 200px;
+	width: 800px;
+	border: 1px solid;
+	margin-left: 20%;
+	margin-top: 30px;
+	border-radius: 50px;
+	background-color: aliceblue;
+}
+.flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.img{
+	font-size: 4rem;
+	position: relative;
+	top: 60px;
+	left: 20px;
+}
+.name1 h1{
+	font-size: 2rem;
+}
+.name1 h4{
+	font-size: 1.5rem;
+	color: gray;
+}
+.dollar1 span{
+	font-size: 2rem;
+	color: greenyellow;
+}
+.dollar1 h5{
+	font-size: 1.5rem;
+}
+
+.box2{
+	height: 200px;
+	width: 800px;
+	border: 1px solid;
+	margin-left: 20%;
+	margin-top: 30px;
+	border-radius: 50px;
+	background-color: aliceblue;
+}
+.flex2{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.img1{
+	font-size: 4rem;
+	position: relative;
+	top: 60px;
+	left: 20px;
+}
+.name2 h1{
+	font-size: 2rem;
+}
+.name2 h4{
+	font-size: 1.5rem;
+	color: gray;
+}
+.dollar2 span{
+	font-size: 2rem;
+	color: red;
+}
+.dollar2 h5{
+	font-size: 1.5rem;
+}
+
+.box3{
+	height: 200px;
+	width: 800px;
+	border: 1px solid;
+	margin-left: 20%;
+	margin-top: 30px;
+	border-radius: 50px;
+	background-color: aliceblue;
+}
+.flex3{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.img2{
+	font-size: 4rem;
+	position: relative;
+	top: 60px;
+	left: 20px;
+}
+.name3 h1{
+	font-size: 2rem;
+}
+.name3 h4{
+	font-size: 1.5rem;
+	color: gray;
+}
+.dollar3 span{
+	font-size: 2rem;
+	color: greenyellow;
+}
+.dollar3 h5{
+	font-size: 1.5rem;
+}
